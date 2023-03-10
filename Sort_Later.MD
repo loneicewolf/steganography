@@ -2,7 +2,7 @@ Sorting this later.
 
 - LSB
 - MSB
-- Plaintext
+- plaintext
 - sounds
 - visuals
 - associations
@@ -16,4 +16,9 @@ Sorting this later.
 - Steghide/StegSnow/StegSuite
 - 
 - 
+- 
+
+
+Sources, References, Bibliography
+- games (assembly)
 - 
